@@ -1,4 +1,4 @@
-# [CLAN](http://)
+# [CLAN](https://github.com/WebSkating/clan)
 ## 基础设定
 ### 时间
 > 2073
